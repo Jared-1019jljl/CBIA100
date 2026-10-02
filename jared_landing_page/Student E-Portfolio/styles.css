@@ -1,0 +1,55 @@
+body{
+  padding: 5px;
+}
+.title {
+    background-color: black;
+    font-family: Arial;
+   
+    margin:0%;
+  color: white;
+}
+header {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 4px solid black;
+}
+main {
+      margin: 20px;
+}
+
+.page-container {
+  background-color: white;
+  border: 15px solid black;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+section {
+    background-color: black;
+    font-family: Arial;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+}
+
+
+article {
+    font-family: Arial;
+    color: black;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+article img {
+    width: 120px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 25px;
+}

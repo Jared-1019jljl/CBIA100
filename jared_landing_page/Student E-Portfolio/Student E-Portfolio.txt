@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Student E-Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+<body>
+     <header>
+      <h1 class="title">Student E-Portfolio</h1>
+      
+      <p> Welcome to my student E-Portfolio!
+      
+      <br> welcome message
+      </p>
+      
+     <img src="jared.jpg" 
+      alt="Jared" 
+      width="180">
+
+      
+      <p>"tagline"</p>
+    </header>
+
+ <main>
+
+<article>
+
+                <h3>ABOUT ME</h3>
+
+                <p>
+                    <strong>Bio</strong>
+                   <br> decscription
+                </p>
+                <p>
+                    <strong>Interests</strong>
+                   <br> decscription
+                </p>
+
+                 <p>
+                    <strong>Career Goals</strong>
+                   <br> decscription
+                </p>
+
+</article>
+
+<article>
+
+                <h3>SKILLS</h3>
+
+                  <p>
+                    <strong>Technical Skills</strong>
+                   <br> decscription
+                </p>
+                <p>
+                    <strong>Soft Skills</strong>
+                   <br> decscription
+                </p>
+</article>
+
+<article>
+
+                <h3>PROJECTS</h3>
+
+               <p>
+                    <strong>Project One</strong>
+                   <br> decscription
+                </p>
+                <p>
+                    <strong>Project Two</strong>
+                   <br> decscription
+                </p>
+
+</article>
+
+<article>
+
+                <h3> ACTIVITIES AND EVENTS </h3>
+                  <p>
+             
+                <p>
+                    <strong>Soft Skills</strong>
+                   <br> decscription
+                </p>
+                
+</article>
+
+</main>
+
+<footer>
+
+        <p><Strong>CONTACT</strong></p>
+
+        <p>Jared Lozano <br> lozanojared1019@gmail.com <br> Message for Inquiries.
+
+        </p>
+
+    </footer>
+
+</body>
+
+
+</html>
